@@ -1,0 +1,1 @@
+['May', 'Monday, ', 'month', 'Wednesday, Oct. 11th', 'Tuesday', 'Monday 8a.m., ', 'Wednesday', 'Monday afternoon, ', 'Tuesday, Oct. 2018', 'October 20th', '10/10/2018']['Christmas Day']
